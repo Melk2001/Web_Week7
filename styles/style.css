@@ -1,0 +1,278 @@
+header
+{
+    background-image: url(../images/carrots.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:300px;
+    color:#ff9d00;
+    border: 1px solid blue;
+    border-radius: 30px;
+}
+
+body
+{
+    color: white;
+    background-color:#000000;
+    font-family: verdana
+   
+}
+
+
+nav
+{
+     background-color: #9a9595;
+     padding: 5px;
+     border-radius: 30px;
+}
+
+nav ul
+{
+    text-align: center;
+    font-size: 1.2em;
+}
+
+nav ul li
+{
+    list-style-type: none;
+    background-color: #B2B2B2;
+    display: inline;
+    padding: 15px;
+    margin: 5px;
+    border: 2px; 
+    
+}
+
+nav ul li:hover{
+    background-color: darkseagreen;
+}
+
+nav ul li a
+{
+   
+    color: white;
+    text-decoration: none;
+    
+    
+}
+
+
+
+#content
+{
+    float: left;
+    width: 80%;
+    margin-right: 15px;
+    border: 1px solid green;
+    border-radius: 30px;
+    
+}
+
+
+
+
+aside{
+    border: 1px solid red;
+    border-radius: 30px;
+    width: 18%; 
+    float: right;
+    
+}
+
+aside ul li
+{
+   list-style-type: none;
+    margin: 5px;
+     
+}
+
+aside ul li a
+{
+    text-align: center;
+    color: blue;
+    text-decoration: : none;  
+   
+   
+}
+
+
+
+footer
+{
+    clear: both;
+    border: 1px solid orange;
+    border-radius: 30px;
+    padding: 0;
+    margin: 0;
+    position: bottom;
+    bottom: 0px;
+    width 100%;
+    background-color: grey;
+    text-align: center;
+}
+
+footer ul li 
+{
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+    margin: 5px;
+    border: 2px;  
+    
+}
+
+footer ul li a
+{
+    color: white;
+    text-decoration: none;
+}
+
+.video
+{
+    float: left;
+    border: 1px;
+    
+        
+}
+
+.iframe
+{
+   
+    float: right;
+    margin: 50px;
+    border: 0px;
+    
+}
+
+
+
+
+.dessert_col
+{
+    
+    column-count: 3;
+    column-rule: 1px solid white;
+    column-gap: 50px;
+    padding: 1px;
+  
+
+}
+
+
+section h2 
+{
+    text-align: left;
+    margin: 10px;
+    
+    
+}
+
+
+section p
+{
+    margin: 10px;
+}
+
+#content img
+{
+    margin: 10px;
+    align-content: center;
+}
+
+.About Us p
+{
+    text-align: right;
+}
+
+.Manager img
+{
+    float: right;
+}
+
+
+
+.col_article
+{
+    column-count: 3;
+    column-rule: 1px solid white;
+    column-gap: 50px;
+    padding: 1px;
+    
+}
+
+.backgroundImageB
+{
+    
+    background-image: url(../images/bacon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    border: 3px solid black;
+    margin: 2px;
+   
+  
+    
+}
+
+.backgroundImageC
+{
+    background-image: url(../images/carrots.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    border: 3px solid black;
+    margin: 2px;
+ 
+}
+
+.backgroundImageE
+{
+    background-image: url(../images/eggs.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    border: 3px solid black;
+    margin: 2px;
+
+   
+}
+
+
+.starter
+{
+    border: 2px solid white;
+    margin: 20px;
+    text-align: center;
+    
+}
+
+.starter h2 
+{
+    text-align: center;
+}
+
+.main_course
+{
+    border: 2px solid white;
+    margin: 20px;
+    text-align: center;
+    
+}
+
+.main_course h2 
+{
+    text-align: center;
+}
+
+.dessert 
+{
+      border: 2px solid white;
+    margin: 20px;
+    text-align: center;
+    
+}
+
+.dessert h2
+{
+     text-align: center;
+}
+
